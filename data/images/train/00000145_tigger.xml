@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_tiger</folder>
+	<filename>00000145_tigger.jpg</filename>
+	<path>/media/joseluis/razek_320GB/datasets/dataset_tiger/00000145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>114</ymin>
+			<xmax>790</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

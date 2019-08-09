@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_hipopotamo</folder>
+	<filename>00000613_hippo.jpg</filename>
+	<path>/home/joseluis/Imágenes/dataset_hipopotamo/00000613.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>587</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hipopotamo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>60</ymin>
+			<xmax>610</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

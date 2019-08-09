@@ -1,0 +1,26 @@
+<annotation>
+	<folder>originales</folder>
+	<filename>00000686_hippo.jpg</filename>
+	<path>/media/joseluis/razek_320GB/datasets/dataset_hipopotamo/originales/00000686.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hipopotamo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>0</ymin>
+			<xmax>191</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>
